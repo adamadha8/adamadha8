@@ -21,3 +21,31 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=adamadha8&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[
+  "PARAMS:",
+  {
+    "encryptedId": "yRgNPR8F1vNrwpZmIG756Q==",
+    "deviceId": "4FDFDE2F6EF407A9E0640010E0E0FA9A",
+    "page": 1,
+    "pageSize": 20,
+    "searchText": "",
+    "filters": {
+      "amountRange": {
+        "min": 0,
+        "max": 2378200000
+      },
+      "approvalStatus": "",
+      "service": "",
+      "fromAccountName": "",
+      "creationDate": {
+        "from": null,
+        "to": null
+      },
+      "effectiveDate": {
+        "from": null,
+        "to": null
+      }
+    },
+    "tab": "Pending Approval"
+  }
+]
